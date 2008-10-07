@@ -1,4 +1,5 @@
 [http://docs.google.com/Doc?id=dccs492d_78ct83h5d7 请在线协作编辑(点我:)]
+注意Google Docs可以离线使用:)
 
 时间安排：
 10月完成6.1-6.3的习题解答和代码
